@@ -8,7 +8,7 @@ The goal of this project is to recommend songs for a given playlist. This projec
 
 To clone the repository:
 ```sh
-git clone https://github.com/enjuichang/PracticalDataScience-ENCA.git
+git clone https://github.com/ninaaaaddd/Recommender-System.git
 ```
 
 ## Process
